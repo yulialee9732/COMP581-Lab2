@@ -1,6 +1,6 @@
 #!/usr/bin/env pybricks-micropython
-# Add team number, names, PIDs, and required source citations.
-# Coding assistance: OpenAI ChatGPT.
+# Seungyoun Lee, PID: 730902524
+# Maria Caballero, PID: 731063735
 
 from pybricks import ev3brick as brick
 from pybricks.ev3devices import (
